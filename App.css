@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+ }
+
+ .left-panel{
+    width: 25%;
+ }
+
+
+ .right-panel{
+    width: 75%;
+
+ }
+
+ .foodItem-display img{
+  height:100px;
+  width: 100px;
+ }
